@@ -1,3 +1,10 @@
+gg---
+ID: 1234567890abcdefghij
+Title: はじめてのGo
+Tags: Go,はじめて
+Author: Tsuji Daishiro
+Private: false
+---
 # rollup-plugin-vue でビルドしたコンポーネントを Vue2 アプリで使用する場合は、rollup-plugin-vue v5 系を使う必要がある
 
 ## 結論
