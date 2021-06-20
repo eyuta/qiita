@@ -253,7 +253,6 @@ $ npm -v
 
 ```sh
 # Next.jsインストール。他でも可。既存プロジェクトでも可。
-
 yarn create next-app --typescript # or npx create-next-app --ts
 
 cd my-app
